@@ -1,0 +1,7 @@
+{
+  "name":"rsrc-package-test",
+  "version":"0.0.1",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
